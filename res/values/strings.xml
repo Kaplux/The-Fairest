@@ -2,4 +2,6 @@
 <resources>
     <string name="hello">Hello thefairest!</string>
     <string name="app_name">Beautiful Landscapes</string>
+    <string name="startapp_devid">106102603</string>
+    <string name="startapp_appid">206237466</string>
 </resources>
